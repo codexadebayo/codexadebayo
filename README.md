@@ -1,10 +1,9 @@
-<div align="center">
+<!--<div align="center">
   <img src="[YOUR_BANNER_URL]" alt="banner" width="100%" height="auto"/>
   <!-- Create a banner using Canva with your name, title, and perhaps a clean tech-themed background -->
-</div>
-
+<!--</div> -->
 <h1 align="center">Hi 👋, I'm Adebayo</h1>
-<h3 align="center">A Software Engineer with 5+ Years of Full-Stack Development Experience</h3>
+<h3 align="center">A Software Engineer with half a decade of Software Development Experience</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Expert;Cloud+Architecture+Specialist;DevOps+Engineer" alt="Typing SVG" />
@@ -51,7 +50,7 @@ I'm a passionate Software Engineer currently working at [ProtonLabs](https://ask
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codexadebayo&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codexadebayo&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -61,10 +60,10 @@ I'm a passionate Software Engineer currently working at [ProtonLabs](https://ask
 ## 🎯 Featured Projects
 <!-- Replace with your actual top projects -->
 <div align="center">
-  <a href="https://github.com/codexadebayo/project1">
+  <a href="https://github.com/codexadebayo/apex-banking">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codexadebayo&repo=project1&theme=dracula" />
   </a>
-  <a href="https://github.com/codexadebayo/project2">
+  <a href="https://github.com/codexadebayo/homegrown-api">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codexadebayo&repo=project2&theme=dracula" />
   </a>
 </div>
@@ -86,24 +85,20 @@ I'm a passionate Software Engineer currently working at [ProtonLabs](https://ask
 
 <p align="center">
   <a href="https://linkedin.com/in/codexadebayo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:codexadebayo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.leetcode.com/codexadebayo" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="#" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </p>
-
-<div align="center">
-  <br clear="both">
-  <img src="https://raw.githubusercontent.com/codexadebayo/codexadebayo/output/snake.svg" alt="Snake animation" />
-</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codexadebayo.codexadebayo" alt="visitors" />
 </p>
+
