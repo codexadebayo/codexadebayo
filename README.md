@@ -2,7 +2,7 @@
   <img src="[YOUR_BANNER_URL]" alt="banner" width="100%" height="auto"/>
   <!-- Create a banner using Canva with your name, title, and perhaps a clean tech-themed background -->
 <!--</div> -->
-<h1 align="center">Hi 👋, I'm Adebayo</h1>
+<h1 align="center">Hi 👋, I'm David Adebayo</h1>
 <h3 align="center">A Software Engineer with half a decade of Software Development Experience</h3>
 
 <div align="center">
